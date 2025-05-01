@@ -93,7 +93,6 @@ span {
 }
 
 #info {
-    text-align: center;
     box-shadow: 0px -1px 4px rgba(0, 0, 0, 0.205);
     background-color: rgb(26, 35, 43);
     height: 360px;
@@ -108,6 +107,7 @@ span {
 .locais{
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 address {
